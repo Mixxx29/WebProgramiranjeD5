@@ -1,0 +1,21 @@
+
+#placeholder {
+    width: 60%;
+    margin: auto;
+}
+
+#placeholder h1 {
+    text-align: center;
+    margin: 5vh 0;
+}
+
+.post, .comment {
+    padding: 1vh;
+    margin: 1vh 0;
+    border: black solid 1px;
+}
+
+.read-more {
+    cursor: pointer;
+    text-decoration: underline;
+}
